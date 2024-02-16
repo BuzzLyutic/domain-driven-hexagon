@@ -1,4 +1,4 @@
-# Domain-Driven Hexagon First commit in branch1
+# Domain-Driven Hexagon Second commit in branch1
 
 **Check out my other repositories**:
 
