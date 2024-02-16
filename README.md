@@ -1,4 +1,5 @@
-# Domain-Driven Hexagon Third commit in branch2
+# Domain-Driven Hexagon Fourth commit in branch2 with conflict
+
 
 **Check out my other repositories**:
 
